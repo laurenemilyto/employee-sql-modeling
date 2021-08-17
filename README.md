@@ -10,6 +10,6 @@ Inspected CSVs and sketched out an ERD of the tables. See HP_Employee_ERD.png.
 #### Data Engineering 
 Created a table schema for each of the six CSV files, specifying data types, primary keys, foreign keys, and other constraints. See schema.sql.
 
-#### Data Analysis git ad
+####git Data Analysis
 Used SQL to analyze employee data. See queries.sql.git
 
