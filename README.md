@@ -18,4 +18,4 @@ Created table schema specifying data types, primary keys, foreign keys, composit
 
 #### Data Analysis
 Used SQL to analyze employee data including group by, joins, etc. See [queries](queries.sql).
-![pgAdmin](EmployeeSQL/pgAdmin.sql)
+![postgres](EmployeeSQL/pgAdmin.png)
