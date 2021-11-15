@@ -1,7 +1,12 @@
 # sql-challenge
 
 ## Background
-Ask: Designed ERD and created six relational tables within pgAdmin to house HP employee data. Performed data modeling and data analysis on the data using SQL.
+Designed ERD and created six relational tables within pgAdmin to house HP employee data. Performed data modeling and data analysis on the data using SQL.
+
+## Tools
+- SQL
+- pgAdmin/Postgres
+- ERD
 
 ## Description
 #### Data Modeling 
