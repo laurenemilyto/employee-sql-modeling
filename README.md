@@ -15,7 +15,7 @@ Inspected data and sketched out an ERD of the tables. See [ERD](EmployeeSQL/HP_E
 
 #### Data Engineering 
 Created table schema specifying data types, primary keys, foreign keys, composite key and other constraints. See [schema](EmployeeSQL/schema.sql).
-![schema](EmployeeSQL/schema.sql)
+![schema](EmployeeSQL/pgAdmin.sql)
 
 #### Data Analysis
 Used SQL to analyze employee data. See [queries](queries.sql).
